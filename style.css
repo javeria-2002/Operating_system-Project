@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    color: black;
+   
+    
+}
+
+body {
+    margin: 10px 20px;
+   
+}
+
+.instructions {
+    font-size: 14px;
+    margin: 10px 20px;
+}
+
+#one h2{
+    color: #000000;
+}
+#two h2{
+    color: #000000;
+}
+#algorithms label{
+    color: #000000;
+}
+.main-table th{
+         color: #000000;
+         font-style: italic;
+         font-size: large;
+}
+#four .container{
+    margin-top: 0%;
+    margin-left: 100px;
+    margin-bottom: 150px;
+}
+img{
+    margin-right: 200px;
+    margin-bottom: 30px;
+    height: 130px;
+}
+#four p{
+    color: #000000;
+}
+#four h3{
+    color: #000000;
+    font:20px;
+}
+#four h4{
+    color: #000000;
+}
+h1 {
+    font-size: 26px;
+}
+
+
+#wrapper{
+    background-color: #e0c8d2;
+}
+
+table{
+    border: 2px solid black;
+    border-bottom: 2px solid black;
+}
+table,
+th,
+td {
+   
+    text-align: center;
+    background-color: #e0c8d2;
+}
+th{
+   
+    color: rgb(0, 0, 0);
+}
+.main-table{
+    color: black;
+}
+
+
+td {
+    padding: 0 2px;
+}
+
+table input {
+    text-align: center;
+   border:1px  #e0c8d2;
+    background-color: #e0c8d2;
+    width: 100px;
+    color: black;
+}
+
+.process-btn {
+    height: 5px;
+}
+
+.process-btn button {
+    height: 20px;
+    width: 20px;
+    font-size: 16px;
+    background-color: transparent;
+    border: none;
+    font-weight: bolder;
+}
+
+.hide {
+    display: none;
+}
+#three h3 {
+     color: #000000;
+}
+#three h4{
+    color: #000000;
+}
+
+.box{
+    border: none;
+}
+button {
+    padding: 5px;
+    border-radius: 12px;
+    background-color: #ff92f6;
+  border: 2px solid black;
+  color: #000000;
+  text-align: center;
+  font-size: 17px;
+  padding: 10px;
+  width: 150px;
+  translate: 1px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.schedule-table-process,
+.schedule-table-process td {
+    border: 1px solid black;
+}
+
+.schedule-table-process {
+    margin-left: 6px;
+}
+
+.schedule-table-time,
+.schedule-table-time td {
+    text-align: left;
+    border: 1px solid white;
+}
+
+
+
+#algorithm-chart {
+    width: 80%;
+    height: 60vh;
+}
+
+#gantt-chart {
+    height: 100px;
+    width: 100%;
+}
+
+#timeline-chart {
+    height: 300px;
+    width: 100%;
+}
+
+#output {
+    margin-top: 20px;
+}
+
+#priority-toggle-btn {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0 0;
+    width: 60px;
+}
+
+.preferences {
+    list-style: none;
+}
+
+thead {
+    font-weight: bold;
+    color: #000000;
+}
+
+#time-log-div {
+    height: 40vh;
+}
+
+#time-log-table-div {
+    display: flex;
+    justify-content: space-around;
+}
